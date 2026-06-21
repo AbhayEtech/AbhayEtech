@@ -43,32 +43,31 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,redux,ts,js,html,css" />
 </p>
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,springboot" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,django" />
 </p>
 
 ## Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql," />
 </p>
-
-**Also Experienced With:**
-
-- GraphQL
-- Apollo Server
-- Prisma ORM
-- TypeORM
 
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,git,github,gitlab,docker,vscode" />
+</p>
+
+**Also Experienced With:**
+
+<p>
+<img src="https://skillicons.dev/icons?i=graphql,cs,go,rust,ai,jestdotnet,firebase," />
 </p>
 
 ---
