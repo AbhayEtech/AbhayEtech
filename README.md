@@ -25,7 +25,7 @@
 
 I'm a **Senior Full-Stack Software Engineer** with 5+ years of experience building scalable SaaS platforms, enterprise applications, CMS solutions, fintech products, and modern web applications.
 
-Currently working at **Emphasise Tech**, I specialize in designing and developing production-grade software using modern JavaScript and TypeScript technologies.
+Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing and developing production-grade software using modern JavaScript and TypeScript technologies.
 
 ### What I Do
 
@@ -49,7 +49,7 @@ Currently working at **Emphasise Tech**, I specialize in designing and developin
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring boot" />
 </p>
 
 ## Database & ORM
@@ -124,7 +124,7 @@ A complete Content Management System with:
 
 ### Tech
 
-`React.js` `Redux` `NestJS` `MongoDB`
+`React.js` `Redux` `Java` `MongoDB`
 
 ---
 
