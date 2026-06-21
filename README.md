@@ -55,7 +55,7 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 ## Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql," />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
 </p>
 
 ## DevOps & Tools
@@ -67,7 +67,7 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 **Also Experienced With:**
 
 <p>
-<img src="https://skillicons.dev/icons?i=graphql,cs,go,rust,ai,jestdotnet,firebase," />
+<img src="https://skillicons.dev/icons?i=graphql,cs,go,rust,ai,jest,dotnet,firebase," />
 </p>
 
 ---
