@@ -111,10 +111,9 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 
 # 🚀 Featured Projects
 
-## 🏢 Enterprise CMS Platform
+## 🏢 Glocal360.ai
 
-A complete Content Management System with:
-
+Glocal360.ai is a comprehensive Business Digitization System which Streamlines Hyperlocal Marketing for Brand and Shop fronts. It brings all the elements required for running a winning Hyperlocal Marketing program in a single platform.
 - Admin Dashboard
 - Role-Based Access
 - Content Management
@@ -124,6 +123,8 @@ A complete Content Management System with:
 ### Tech
 
 `React.js` `Redux` `Java` `MongoDB`
+
+🔗 https://www.glocal360.ai
 
 ---
 
