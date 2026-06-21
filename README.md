@@ -14,7 +14,7 @@
   <a href="mailto:mtabhay2271@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=AbhayEtech&label=Profile%20Views&color=blue">
 </p>
 
 </div>
