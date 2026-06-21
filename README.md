@@ -64,7 +64,7 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,git,github,gitlab,docker,vscode" />
 </p>
 
-**Also Experienced With:**
+## Also Experienced With:
 
 <p>
 <img src="https://skillicons.dev/icons?i=graphql,cs,go,rust,ai,jest,dotnet,firebase," />
