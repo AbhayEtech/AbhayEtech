@@ -49,7 +49,7 @@ Currently working at **AdGloble360 India Pvt. Ltd.**, I specialize in designing 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring boot" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,springboot" />
 </p>
 
 ## Database & ORM
